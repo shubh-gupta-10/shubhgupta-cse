@@ -1,4 +1,4 @@
 # shubhgupta-cse
 This is my account of Github
 <br>
-Author - Shubh Gupta
+Author - Shubh Gupta(Apna college)
